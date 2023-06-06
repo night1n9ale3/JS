@@ -4,15 +4,13 @@
 // let obj = {
 //     // key = value
 //     name: "Samir",
-//     secondname: "Tashmatov",
-//     gender: "Man",
-//     DOB: "24 June 2012",
 //     age: 10,
-//     country: "Uzbekistan",
-//     city: "Tashkent",
-//     number: "+998946563050",
-//     role: "Student",
-//     grade: 6,
+// }
+
+// let obj = {
+//     // key = value
+//     name: "Nazim",
+//     age: 12,
 // }
 
 // console.log(Object.values(obj));
