@@ -4,13 +4,29 @@
 // let obj = {
 //     // key = value
 //     name: "Samir",
+//     secondname: "Tashmatov",
+//     gender: "Man",
+//     DOB: "24 June, 2012",
 //     age: 10,
+//     country: "Uzbekistan",
+//     city: "Tashkent",
+//     number: "+998946563050",
+//     role: "Student",
+//     grade: 6
 // }
 
 // let obj = {
 //     // key = value
 //     name: "Nazim",
 //     age: 12,
+//     secondname: "Efendiyev",
+//     gender: "man",
+//     DOB: "30 May, 2011",
+//     country: "Uzbekistan",
+//     city: "Tashkent",
+//     number: "+998935832165",
+//     role: "Student",
+//     grade: 6
 // }
 
 // console.log(Object.values(obj));
